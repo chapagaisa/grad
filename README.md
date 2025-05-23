@@ -1,7 +1,7 @@
 
 # Pruning Strategies for Backdoor Defense in Large Language Models
 
-![Backdoor](Fig/backdoor.jpeg)
+![Backdoor](Fig/backdoor.png)
 
 This project explores various pruning strategies to defend against backdoor attacks in large language models.
 

@@ -1,0 +1,5 @@
+cuda==12.6
+python==3.12.3
+pytorch==2.6.0
+scikit-learn==1.6.1
+transformers==4.48.2

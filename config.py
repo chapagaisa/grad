@@ -2,7 +2,7 @@ import argparse
 
 
 def get_arguments():
-    parser = argparse.ArgumentParser(description="Pruning CIKM 2025")
+    parser = argparse.ArgumentParser(description="Pruning Strategies 2025")
     parser.add_argument("--device", type=str, default="cuda:0")
     parser.add_argument("--seed", type=int, default=11)
     parser.add_argument("--tokenizer", type=str, default="bert-base-uncased")
